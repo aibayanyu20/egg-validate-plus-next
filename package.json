@@ -1,6 +1,6 @@
 {
   "name": "egg-validate-plus-next",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "this is validate plus next for egg",
   "eggPlugin": {
     "name": "validatePlusNext"
@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-validate-plus-next.git"
+    "url": "git+https://github.com/aibayanyu20/egg-validate-plus-next.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/aibayanyu20/egg-validate-plus-next/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-validate-plus-next#readme",
+  "homepage": "https://github.com/aibayanyu20/egg-validate-plus-next",
   "author": "aibayanyu",
   "license": "MIT"
 }
