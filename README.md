@@ -42,7 +42,7 @@ exports.validatePlusNext = {
 ```javascript
 
 // config/config.default.js
-config.validatePlus = {
+config.validatePlusNext = {
   resolveError(ctx, errors) {
     if (errors.length) {
       ctx.type = 'json';
